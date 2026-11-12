@@ -1,0 +1,19 @@
+# Manuscript / submission material (not part of the code release)
+*.docx
+mail.txt
+
+# Local tooling
+.claude/
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated outputs
+outputs/
+model.png
+
+# Full dataset: not public, never commit (see README "Data availability")
+data/soil_data2.csv

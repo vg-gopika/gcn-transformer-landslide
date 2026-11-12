@@ -1,0 +1,7 @@
+# Tested with Python 3.9 and the versions in comments.
+tensorflow>=2.16      # tested: 2.20.0 (Keras 3.10.0)
+numpy>=1.26           # tested: 2.0.2
+pandas>=2.0           # tested: 2.3.3
+scikit-learn>=1.3     # tested: 1.6.1
+matplotlib>=3.7       # tested: 3.9.4
+seaborn>=0.13         # tested: 0.13.2

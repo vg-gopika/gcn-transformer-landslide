@@ -1,0 +1,33 @@
+Copyright (c) 2026 V G Gopika, Shameem Ansar A, Rezni S, Suresh Francis.
+All rights reserved.
+
+This repository (source code, notebooks and example data) accompanies the manuscript
+"Hybrid GCN-Transformer Encoder Framework for Spatio-Temporal Landslide
+Prediction Using Multivariate Geospatial Data".
+
+It is made publicly available ONLY so that editors, reviewers and readers can
+inspect it and verify or reproduce the results reported in that manuscript.
+
+You MAY:
+  - view and download the contents of this repository;
+  - run the code locally for the sole purpose of verifying or reproducing the
+    results of the manuscript.
+
+You may NOT, without prior written permission from the copyright holders:
+  - copy, modify, merge, adapt or create derivative works of any part of it;
+  - use it, in whole or in part, in other research, publications, products or
+    services, whether commercial or non-commercial;
+  - publish, redistribute, sublicense or sell any part of it.
+
+No licence or right is granted by implication or otherwise except as stated
+above. Requests for permission should be sent to the corresponding author:
+V G Gopika <242014@tkmce.ac.in>.
+
+The full dataset used in the manuscript is not included in this repository and
+is not covered by this notice; it is available from the corresponding author
+on reasonable request.
+
+THE SOFTWARE AND DATA ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE
+SOFTWARE OR DATA.
